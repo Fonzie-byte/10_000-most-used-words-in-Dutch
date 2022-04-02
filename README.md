@@ -10,4 +10,4 @@ There are 4 lists:
 I personally use this to make a better Dutch [diceware passphrase](https://theworld.com/~reinhold/diceware.html), since the [original Dutch list](https://theworld.com/~reinhold/DicewareDutch.txt) contains amazing entries such as 
 `3`, `qx`, and `@` and `@@`; making `@ qx 3 @@ c f` a perfectly valid &ldquo;Dutch&rdquo; passphrase.
 
-The first list was put up here in case Liam Rosen's site should ever go down, the last three lists containing only sensible Dutch abbreviations and words are here for research and passphrasing purposes.
+The first list was put up here in case Liam Rosen's site should ever go down; the last three lists, containing only sensible Dutch words and abbreviations, are here for research and passphrasing purposes.
