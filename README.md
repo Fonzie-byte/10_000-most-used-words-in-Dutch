@@ -1,7 +1,7 @@
 # The 10.000 most used words in Dutch
 The words in this list come from the list hosted on [Liam Rosen's site](http://www.liamrosen.com/files/10000mostfrequentdutchwords.txt).
 
-There are 3 lists:
+There are 4 lists:
 1. The full list Liam Rosen hosted
 1. The lowercased version of the list without duplicates (such as &ldquo;de&rdquo; and &ldquo;De&rdquo;)
 1. The previous list, without diatrics (such as &ldquo;&eacute;&rdquo;), then those duplicates removed (such as &ldquo;geen&rdquo; and &ldquo;g&eacute;&eacute;n&rdquo;) and then without all single-letter &ldquo;words&rdquo;; with the exception of &ldquo;u&rdquo; (which is the formal version of &ldquo;you&rdquo; in Dutch)
