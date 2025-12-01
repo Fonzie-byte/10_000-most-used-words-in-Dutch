@@ -1,3 +1,5 @@
+> Migrated to [https://codeberg.org/Fonzie-byte/10_000-most-used-words-in-Dutch](https://codeberg.org/Fonzie-byte/10_000-most-used-words-in-Dutch)
+
 # The 10.000 most used words in Dutch
 The words in this list come from the list hosted on [Liam Rosen's site](http://www.liamrosen.com/files/10000mostfrequentdutchwords.txt).
 
